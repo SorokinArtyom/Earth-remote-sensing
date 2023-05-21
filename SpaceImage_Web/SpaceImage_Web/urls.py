@@ -26,9 +26,9 @@ router = routers.DefaultRouter()
 # router.register(r'Water_Images', views.Water_Images_Views, basename = 'Water')
 # router.register(r'City_Images', views.City_Images_Views, basename = 'City')
 # router.register(r'Meadows_Images', views.Meadows_Images_Views, basename = 'Meadows')
-router.register(r'Saved_Images', views.Saved_Images_Views, basename= 'Saved_Images')
+# router.register(r'Saved_Images', views.Saved_Images_Views, basename= 'Saved_Images')
 router.register(r'ALL_Images', views.ALL_Images_Views, basename= 'ALL_Images')
-router.register(r'user', views.UserViewSet)
+# router.register(r'user', views.UserViewSet)
 
 # router.register(r'user', views.UserViewSet)
 # router.register(r'StavkiALL', views.StavkiALL)
@@ -50,19 +50,10 @@ schema_view = get_schema_view(
 urlpatterns = [
 
 path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
-# path('Saved_Image/Add/', views.Saved_Images_Add_Views.as_view({'post': 'create'})),
-# path('Images/Forest', views.Forest_Images_Views.as_view()),
-# path('Images/Water', views.Water_Images_Views.as_view()),
-# path('Images/City', views.City_Images_Views.as_view()),
-# path('Images/Meadows', views.Meadows_Images_Views.as_view()),
 
-# path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 path('admin/', admin.site.urls),
-# path('ALL_Images/', views.ALL_Images_Views.as_view()),
-
 
 path ('', include(router.urls)),
-# path('add_user', views.getJson, name='getJson'),
 
 path('add_user/', views.getJson, name='getJson'),
 path('login/', views.LoginAPIView.as_view()),

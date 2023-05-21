@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e96b83e-7582-40c4-b5cb-ac03afcc2c04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpaceImage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpaceImage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SpaceImage-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLite_Work.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLite_Work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/SpaceImage_Web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/SpaceImage_Web/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/SpaceImage_Web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/SpaceImage_Web/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/Web_SpaceImage/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceImage_Web/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceImage_Web/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PnGQYqgjcl7fKNCWP5vRVcufhz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PyCharmPro Projects/Kursach/Kursach/SpaceImage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e96b83e-7582-40c4-b5cb-ac03afcc2c04" name="Changes" comment="" />
+      <created>1684085418027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684085418027</updated>
+      <workItem from="1684085420976" duration="240000" />
+      <workItem from="1684090254529" duration="615000" />
+      <workItem from="1684162574473" duration="51000" />
+      <workItem from="1684162704053" duration="1542000" />
+      <workItem from="1684168841677" duration="853000" />
+      <workItem from="1684170514545" duration="115000" />
+      <workItem from="1684170650382" duration="1728000" />
+      <workItem from="1684184065583" duration="633000" />
+      <workItem from="1684250510721" duration="616000" />
+      <workItem from="1684252344931" duration="1558000" />
+      <workItem from="1684254363080" duration="950000" />
+      <workItem from="1684496766274" duration="1214000" />
+      <workItem from="1684520810117" duration="2018000" />
+      <workItem from="1684525158610" duration="552000" />
+      <workItem from="1684528741586" duration="655000" />
+      <workItem from="1684588911106" duration="3349000" />
+      <workItem from="1684677023801" duration="7196000" />
+      <workItem from="1684702006338" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpaceImage$SQLite_Work.coverage" NAME="SQLite_Work Coverage Results" MODIFIED="1684682698922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpaceImage$settings.coverage" NAME="settings Coverage Results" MODIFIED="1684521038282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SpaceImage_Web/SpaceImage_Web" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+ syntax = "proto3";
+
+service send_images{
+    rpc sendImage(img) returns (number);
+}
+
+message img {
+  string image = 1;
+}
+
+message number{
+    int32 num = 1;
+}

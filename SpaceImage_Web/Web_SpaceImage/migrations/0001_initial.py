@@ -4,18 +4,29 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='Forest_Images',
+            name="Forest_Images",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('Image', models.ImageField(height_field=256, upload_to='Images', width_field=256)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                (
+                    "Image",
+                    models.ImageField(
+                        height_field=256, upload_to="Images", width_field=256
+                    ),
+                ),
             ],
         ),
     ]

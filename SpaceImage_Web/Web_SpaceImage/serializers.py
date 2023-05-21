@@ -3,28 +3,6 @@ from django.contrib.auth import authenticate
 from django.contrib.auth.models import User
 from .models import *
 
-class Forest_Images_Serializer(serializers.ModelSerializer):
-    class Meta:
-        model = Forest_Images
-        fields = "__all__"
-
-class Water_Images_Serializer(serializers.ModelSerializer):
-    class Meta:
-        model = Water_Images
-        fields = "__all__"
-
-class City_Images_Serializer(serializers.ModelSerializer):
-    class Meta:
-        model = City_Images
-        fields = "__all__"
-
-class Meadows_Images_Serializer(serializers.ModelSerializer):
-    class Meta:
-        model = Meadows_Images
-        fields = "__all__"
-
-
-
 class LoginSerializer(serializers.Serializer):
     username = serializers.CharField()
     password = serializers.CharField(max_length=128, write_only=True)
@@ -62,13 +40,6 @@ class UsersSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = "__all__"
-
-
-class Saved_Images_Serializer(serializers.ModelSerializer):
-    class Meta:
-        model = Saved_Images
-        fields = "__all__"
-
 
 class ALL_Images_Serializer(serializers.ModelSerializer):
     class Meta:
